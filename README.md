@@ -1,6 +1,5 @@
 # MediaController
 ## Overview 
---------------
 #### Assignment 
 • Video controller that shows toast meassages on press which are called through JNI.
 • The app UI have nontrival mix of layouts.
