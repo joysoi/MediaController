@@ -7,8 +7,8 @@
 * The modul contains C++ code using the new Android CMake system and JNI Java code is also placed in the module.
 ## Screens
 
-![screen](https://github.com/joysoi/MediaController/blob/master/art/Screenshot_1490637265.png)
-
+![screen](https://github.com/joysoi/MediaController/blob/master/art/Screenshot_1490637267.png)
+![screen](https://github.com/joysoi/MediaController/blob/master/art/Screenshot_1490637278.png)
 
 ## License
 
