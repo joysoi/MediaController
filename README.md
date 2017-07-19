@@ -1,6 +1,6 @@
 # MediaController
 * Video controller anchored on a video that shows toast meassages on press which are called through JNI.
-## Overview 
+# Overview 
 ### Assignment 
 * The app UI have nontrival mix of layouts.
 * The UI scale properly on various form-factors, smartphone and tablet, portrait and landscape.
