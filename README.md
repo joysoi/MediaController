@@ -9,10 +9,10 @@
 
 <img src="https://github.com/joysoi/MediaController/blob/master/art/Screenshot_1490637267.png" 
  height="520" width="290" align="left"/>
- <img src="https://github.com/joysoi/SoccerJar/blob/master/art/Screenshot_1499273837.png" 
+ <img src="https://github.com/joysoi/MediaController/blob/master/art/Screenshot_1490637278.png" 
  height="520" width="290" align="left"/>
 ![screen]()
-![screen](https://github.com/joysoi/MediaController/blob/master/art/Screenshot_1490637278.png)
+![screen]()
 
 ## License
 
