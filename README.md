@@ -5,13 +5,13 @@
 * The app UI have nontrival mix of layouts.
 * The UI scale properly on various form-factors, smartphone and tablet, portrait and landscape.
 * The modul contains C++ code using the new Android CMake system and JNI Java code is also placed in the module.
-## Screens
 
+## Screens
 <img src="https://github.com/joysoi/MediaController/blob/master/art/Screenshot_1490637267.png" 
  height="520" width="290" align="left"/>
  <img src="https://github.com/joysoi/MediaController/blob/master/art/Screenshot_1490637278.png" 
  height="520" width="290" align="left"/>
-
+ 
 ## License
 
     Copyright 2017 Nikola Nikolovski
