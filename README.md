@@ -7,11 +7,11 @@
 * The modul contains C++ code using the new Android CMake system and JNI Java code is also placed in the module.
 ## Screens
 
-<img src="https://github.com/joysoi/SoccerJar/blob/master/art/Screenshot_1499273837.png" 
+<img src="https://github.com/joysoi/MediaController/blob/master/art/Screenshot_1490637267.png" 
  height="520" width="290" align="left"/>
  <img src="https://github.com/joysoi/SoccerJar/blob/master/art/Screenshot_1499273837.png" 
  height="520" width="290" align="left"/>
-![screen](https://github.com/joysoi/MediaController/blob/master/art/Screenshot_1490637267.png)
+![screen]()
 ![screen](https://github.com/joysoi/MediaController/blob/master/art/Screenshot_1490637278.png)
 
 ## License
