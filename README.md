@@ -9,8 +9,9 @@
 ## Screens
 <img src="https://github.com/joysoi/MediaController/blob/master/art/Screenshot_1490637267.png" 
  height="520" width="290" align="left"/>
+ 
  <img src="https://github.com/joysoi/MediaController/blob/master/art/Screenshot_1490637278.png" 
- height="520" width="290" align="left"/>
+ height="520" width="290" align="bottom"/>
  
  
  
