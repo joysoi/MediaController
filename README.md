@@ -11,7 +11,7 @@
  height="520" width="290" align="left"/>
  
  <img src="https://github.com/joysoi/MediaController/blob/master/art/Screenshot_1490637278.png" 
- height="520" width="500" align="bottom"/>
+ height="520" width="600" align="bottom"/>
  
  
  
